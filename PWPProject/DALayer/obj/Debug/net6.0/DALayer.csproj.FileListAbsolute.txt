@@ -1,0 +1,70 @@
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\bin\Debug\net6.0\DALayer.deps.json
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\bin\Debug\net6.0\DALayer.runtimeconfig.json
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\bin\Debug\net6.0\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\bin\Debug\net6.0\DALayer.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\bin\Debug\net6.0\Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\bin\Debug\net6.0\Common.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.AssemblyReference.cache
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfoInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfo.cs
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.CopyComplete
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\refint\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\DALayer.genruntimeconfig.cache
+D:\University of Oulu\Programable Web Project\Project\PWPProject\DALayer\obj\Debug\net6.0\ref\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.deps.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.runtimeconfig.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\Common.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.AssemblyReference.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfoInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfo.cs
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.sourcelink.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.Up2Date
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\refint\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.genruntimeconfig.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\ref\DALayer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\bin\Debug\net6.0\DALayer.deps.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\bin\Debug\net6.0\DALayer.runtimeconfig.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\bin\Debug\net6.0\DALayer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\bin\Debug\net6.0\DALayer.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\bin\Debug\net6.0\Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\bin\Debug\net6.0\Common.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\refint\DALayer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\DALayer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\DALayer\obj\Debug\net6.0\ref\DALayer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.deps.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.runtimeconfig.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\DALayer.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\bin\Debug\net6.0\Common.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.AssemblyReference.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfoInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.AssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.sourcelink.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.csproj.Up2Date
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\refint\DALayer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\DALayer.genruntimeconfig.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\DALayer\obj\Debug\net6.0\ref\DALayer.dll

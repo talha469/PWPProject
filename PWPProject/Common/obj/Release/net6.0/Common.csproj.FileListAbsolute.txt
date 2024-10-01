@@ -1,0 +1,38 @@
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\bin\Release\net6.0\Common.deps.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\bin\Release\net6.0\Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\bin\Release\net6.0\Common.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.csproj.AssemblyReference.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.AssemblyInfoInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.AssemblyInfo.cs
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.sourcelink.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\refint\Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\ref\Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\bin\Release\net6.0\Common.deps.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\bin\Release\net6.0\Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\bin\Release\net6.0\Common.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\refint\Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\Common.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\Common\obj\Release\net6.0\ref\Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\bin\Release\net6.0\Common.deps.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\bin\Release\net6.0\Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\bin\Release\net6.0\Common.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.csproj.AssemblyReference.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.AssemblyInfoInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.AssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.sourcelink.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\refint\Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\Common.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\Common\obj\Release\net6.0\ref\Common.dll

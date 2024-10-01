@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PWPProject</name>
+    </assembly>
+    <members>
+        <member name="T:PWPProject.Controllers.AuthenticationController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PWPProject.Controllers.AuthenticationController.#ctor(DALayer.ApplicationDBContext,Microsoft.Extensions.Caching.Memory.IMemoryCache,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="dbContext"></param>
+            <param name="memoryCache"></param>
+            <param name="config"></param>
+        </member>
+        <member name="T:PWPProject.Controllers.BookmarkController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PWPProject.Controllers.BookmarkController.#ctor(DALayer.ApplicationDBContext,Microsoft.Extensions.Caching.Memory.IMemoryCache,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Vote controller deals all types of operations related to the voting of videos
+            </summary>
+            <param name="dbContext"></param>
+            <param name="memoryCache"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:PWPProject.Controllers.BookmarkController.PostVideoBookmark(Common.BusinessEntities.VideoUserActionDto)">
+            <summary>
+            Posts a bookmark for a video.
+            </summary>
+            <param name="video">The video object along with user's action (like, dislike).</param>
+            <returns>
+            Returns an HTTP response indicating the success or failure of the operation.
+            </returns>
+        </member>
+        <member name="M:PWPProject.Controllers.BookmarkController.EditVideoBookmark(Common.BusinessEntities.VideoUserActionDto)">
+            <summary>
+            Edit a bookmark for a video.
+            </summary>
+            <param name="video">The video object along with user's action (like, dislike).</param>
+            <remarks>
+                {
+                    "VideoId": "some radnom guid",
+                    "UserId": 1,
+                    "bookMarkDate": "2024-04-16T12:00:00",
+                    "isBookMarked": true
+                }
+            </remarks>
+            <returns>
+            Returns an HTTP response indicating the success or failure of the operation with edited video bookmark.
+            </returns>
+        </member>
+        <member name="M:PWPProject.Controllers.UsersController.User(Common.BusinessEntities.CreateUser)">
+             <summary>
+             Create a New User.
+             </summary>
+             <returns>
+             Returns an HTTP response containing a JSON payload with information about the new user.
+             </returns>
+             <remarks>
+            This endpoint create a new user in the system. It first checks if the business logic layer
+             is initialized. If not, it throws an InvalidOperationException. It then retrieves the user from the 
+             business logic layer. If the user is created successfully, it returns a success response (HTTP status code 201) along with the 
+             retrieved user. If the user in unable to create, it returns the error (HTTP status code 500)
+             </remarks>
+        </member>
+        <member name="M:PWPProject.Controllers.UsersController.User">
+             <summary>
+             Get all users
+             </summary>
+             <returns>
+             Returns an HTTP response containing a JSON payload with information about the all users.
+             </returns>
+             <remarks>
+            This endpoint return all users in the system. It first checks if the business logic layer
+             is initialized. If not, it throws an InvalidOperationException. It then retrieves the user from the 
+             business logic layer. If the user is created successfully, it returns a success response (HTTP status code 201) along with the 
+             retrieved user. If the user in unable to create, it returns the error (HTTP status code 500)
+             </remarks>
+        </member>
+        <member name="T:PWPProject.Controllers.VideoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PWPProject.Controllers.VideoController.#ctor(DALayer.ApplicationDBContext,Microsoft.Extensions.Caching.Memory.IMemoryCache,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.Options.IOptions{Common.Helper_Methods.AppSettings})">
+            <summary>
+            Video controller deals all types of operations related to the video
+            </summary>
+            <param name="dbContext"></param>
+            <param name="memoryCache"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:PWPProject.Controllers.VideoController.Get(System.String,System.String)">
+            <summary>
+            Retrieves a video by its unique identifier.
+            </summary>
+            <param name="id">The unique identifier of the video.</param>
+            <returns>
+            Returns an HTTP response containing a JSON payload with information about the retrieved video.
+            </returns>
+            <remarks>
+            This endpoint fetches a video specified by its unique identifier. It first checks if the business logic layer
+            is initialized. If not, it throws an InvalidOperationException. It then retrieves the video from the 
+            business logic layer. If the video is found, it returns a success response (HTTP status code 200) along with the 
+            retrieved video.
+            </remarks>
+        </member>
+        <member name="M:PWPProject.Controllers.VideoController.Delete(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PWPProject.Controllers.VideosController.#ctor(DALayer.ApplicationDBContext,Microsoft.Extensions.Caching.Memory.IMemoryCache,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.Options.IOptions{Common.Helper_Methods.AppSettings})">
+            <summary>
+            Videos controller deals all types of operations related to the videos
+            </summary>
+            <param name="dbContext"></param>
+            <param name="memoryCache"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:PWPProject.Controllers.VideosController.Get">
+            <summary>
+            Retrieves a list of videos for the home page.
+            </summary>
+            <returns>
+            Returns an HTTP response containing a JSON payload with information about the retrieved videos.
+            </returns>
+            <remarks>
+            This endpoint fetches a list of videos to display on the home page. It first checks if the business logic layer
+            is initialized. If not, it throws an InvalidOperationException. It then retrieves the home page videos from the 
+            business logic layer. If videos are found, it returns a success response (HTTP status code 200) along with the 
+            retrieved videos.
+            </remarks>
+        </member>
+        <member name="M:PWPProject.Controllers.VideosController.Post(Common.BusinessEntities.AddVideoDto)">
+            <summary>
+            Posts a new video to the system.
+            </summary>
+            <param name="video">The video object to be posted.</param>
+            <returns>
+            Returns an HTTP response indicating the success or failure of the operation.
+            </returns>
+            <remarks>
+            This endpoint creates a new video in the system. It first checks if the business logic layer
+            is initialized. If not, it throws an InvalidOperationException.
+            </remarks>
+        </member>
+        <member name="M:PWPProject.Controllers.VoteController.#ctor(DALayer.ApplicationDBContext,Microsoft.Extensions.Caching.Memory.IMemoryCache,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Vote controller deals all types of operations related to the voting of videos
+            </summary>
+            <param name="dbContext"></param>
+            <param name="memoryCache"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:PWPProject.Controllers.VoteController.PostVideoVote(Common.BusinessEntities.VideoUserActionDto)">
+            <summary>
+            Posts a vote for a video.
+            </summary>
+            <param name="video">The video object along with user's action (like, dislike).</param>
+            <returns>
+            Returns an HTTP response indicating the success or failure of the operation.
+            </returns>
+        </member>
+    </members>
+</doc>

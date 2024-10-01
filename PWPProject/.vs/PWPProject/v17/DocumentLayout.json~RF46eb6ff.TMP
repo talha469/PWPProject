@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\controllers\\bookmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\controllers\\bookmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\pwpproject\\controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA936369-1CE2-404C-A2BC-D59752A90128}|PWPProject\\PWPProject.csproj|solutionrelative:pwpproject\\controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D118F1-9167-409F-8431-691853AA8921}|Common\\Common.csproj|d:\\university of oulu\\courses\\programable web project\\project\\pwp-project-video-streaming\\pwpproject\\common\\businessentities\\videouseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D118F1-9167-409F-8431-691853AA8921}|Common\\Common.csproj|solutionrelative:common\\businessentities\\videouseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\TestxUnit\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestxUnit\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "PWPProject\\Controllers\\VoteController.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "PWPProject\\Controllers\\VoteController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:02:06.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PWPProject\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PWPProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:52:16.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideosController.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\VideosController.cs",
+              "RelativeDocumentMoniker": "PWPProject\\Controllers\\VideosController.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\VideosController.cs",
+              "RelativeToolTip": "PWPProject\\Controllers\\VideosController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:52:10.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "PWPProject\\Controllers\\VideoController.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "PWPProject\\Controllers\\VideoController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAIwHQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:52:01.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PWPProject\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PWPProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:51:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookmarkController.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\BookmarkController.cs",
+              "RelativeDocumentMoniker": "PWPProject\\Controllers\\BookmarkController.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\Controllers\\BookmarkController.cs",
+              "RelativeToolTip": "PWPProject\\Controllers\\BookmarkController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwGgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:51:21.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoUserAction.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\Common\\BusinessEntities\\VideoUserAction.cs",
+              "RelativeDocumentMoniker": "Common\\BusinessEntities\\VideoUserAction.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\Common\\BusinessEntities\\VideoUserAction.cs",
+              "RelativeToolTip": "Common\\BusinessEntities\\VideoUserAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:02:16.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\appsettings.json",
+              "RelativeDocumentMoniker": "PWPProject\\appsettings.json",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\PWPProject\\appsettings.json",
+              "RelativeToolTip": "PWPProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T01:47:28.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\TestxUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestxUnit\\UnitTest1.cs",
+              "ToolTip": "D:\\University of Oulu\\Courses\\Programable Web Project\\Project\\pwp-project-video-streaming\\PWPProject\\TestxUnit\\UnitTest1.cs",
+              "RelativeToolTip": "TestxUnit\\UnitTest1.cs",
+              "ViewState": "AQIAAKsCAAAAAAAAAAAawL4CAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:45:19.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

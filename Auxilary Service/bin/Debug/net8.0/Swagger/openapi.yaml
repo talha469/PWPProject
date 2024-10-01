@@ -1,0 +1,369 @@
+openapi: 3.0.3
+info:
+  title: Video Streaming API - OpenAPI 3.0
+  description: |-
+    This is an API used for video streaming application
+
+    Some useful links:
+    - [The Video Streaming API repository](https://gitlab.com/talhaarshad469/pwp-project-video-streaming/-/tree/main/PWPProject?ref_type=heads)
+    - [The source API definition for the Video Streaming API](https://github.com/swagger-api/swagger-Bookmarkstore/blob/master/src/main/resources/openapi.yaml)
+  contact:
+    email: marshad23@student.oulu.fi
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.11
+externalDocs:
+  description: Find out more about Swagger
+  url: http://swagger.io
+servers:
+- url: https://developmentapi.deldiosmotorclubadmin.com
+tags:
+- name: user
+  description: Operations about user
+paths:
+  /user/{Id}:
+    get:
+      tags:
+      - user
+      summary: Get user by user Id
+      description: ""
+      operationId: getUserByName
+      parameters:
+      - name: Id
+        in: path
+        description: The name that needs to be fetched. Use user1 for testing.
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/inline_response_200'
+        "400":
+          description: Invalid User Id
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/inline_response_400'
+        "404":
+          description: User not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/inline_response_404'
+      security:
+      - jwt: []
+    put:
+      tags:
+      - user
+      summary: Update user
+      description: This is Admin Only operation and need auhtorization
+      operationId: updateUser
+      parameters:
+      - name: Id
+        in: path
+        description: User Id that will be used to update user data
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      requestBody:
+        description: Update an existing user in the store
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        "200":
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/inline_response_200'
+        "400":
+          description: Invalid User Id
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/inline_response_400_1'
+        "404":
+          description: User not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/inline_response_404'
+    delete:
+      tags:
+      - user
+      summary: Delete user
+      description: This can only be done by the logged in user.
+      operationId: deleteUser
+      parameters:
+      - name: Id
+        in: path
+        description: The name that needs to be deleted
+        required: true
+        style: simple
+        explode: false
+        schema:
+          type: string
+      responses:
+        "400":
+          description: Invalid username supplied
+        "404":
+          description: User not found
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        username:
+          type: string
+          example: theUser
+        email:
+          type: string
+          example: john@email.com
+        role:
+          type: string
+          description: Specify role as User or Admin
+          example: Admin
+      xml:
+        name: user
+    inline_response_200:
+      type: object
+      properties:
+        controls:
+          $ref: '#/components/schemas/inline_response_200_controls'
+        statusCode:
+          type: integer
+          example: 200
+        message:
+          type: string
+          example: Success
+        data:
+          $ref: '#/components/schemas/inline_response_200_data'
+        timestamp:
+          type: string
+          format: date-time
+          example: 2024-05-15T07:14:21.9966697Z
+        requestId:
+          type: string
+          example: 0HN3KLORDC6I9:0000001D
+    inline_response_400:
+      type: object
+      properties:
+        controls:
+          $ref: '#/components/schemas/inline_response_400_controls'
+        statusCode:
+          type: integer
+          example: 400
+        message:
+          type: string
+          example: Invalid Request
+        data:
+          type: object
+        timestamp:
+          type: string
+          format: date-time
+          example: 2024-05-15T07:14:21.9966697Z
+        requestId:
+          type: string
+          example: 0HN3KLORDC6I9:0000001D
+    inline_response_404:
+      type: object
+      properties:
+        controls:
+          $ref: '#/components/schemas/inline_response_400_controls'
+        statusCode:
+          type: integer
+          example: 404
+        message:
+          type: string
+          example: User Not Found
+        data:
+          type: object
+        timestamp:
+          type: string
+          format: date-time
+          example: 2024-05-15T07:14:21.9966697Z
+        requestId:
+          type: string
+          example: 0HN3KLORDC6I9:0000001D
+    inline_response_400_1:
+      type: object
+      properties:
+        controls:
+          $ref: '#/components/schemas/inline_response_200_controls'
+        statusCode:
+          type: integer
+          example: 400
+        message:
+          type: string
+          example: Invalid Request
+        data:
+          type: object
+        timestamp:
+          type: string
+          format: date-time
+          example: 2024-05-15T07:14:21.9966697Z
+        requestId:
+          type: string
+          example: 0HN3KLORDC6I9:0000001D
+    inline_response_200_controls_mumetacreatenewuser_schema_properties:
+      type: object
+      properties:
+        email:
+          type: string
+          example: talha@ibex.co
+        username:
+          type: string
+          example: Talha
+        Password:
+          type: string
+          example: Password
+        Imagepath:
+          type: string
+          example: /image/talha.jpg
+    inline_response_200_controls_mumetacreatenewuser_schema:
+      type: object
+      properties:
+        type:
+          type: string
+          example: object
+        properties:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetacreatenewuser_schema_properties'
+        required:
+          type: array
+          example:
+          - Email
+          - Username
+          - Password
+          items:
+            type: string
+    inline_response_200_controls_mumetacreatenewuser:
+      type: object
+      properties:
+        href:
+          type: string
+          example: http://muhammadtalhapwp-001-site1.jtempurl.com/Users
+        method:
+          type: string
+          example: POST
+        encoding:
+          type: string
+          example: json
+        title:
+          type: string
+          example: Get All Videos
+        schema:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetacreatenewuser_schema'
+    inline_response_200_controls_mumetadeleteuser_schema:
+      required:
+      - id
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 1
+    inline_response_200_controls_mumetadeleteuser:
+      type: object
+      properties:
+        href:
+          type: string
+          example: "http://muhammadtalhapwp-001-site1.jtempurl.com/User/{id}"
+        method:
+          type: string
+          example: DELETE
+        encoding:
+          type: string
+          example: json
+        schema:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetadeleteuser_schema'
+    inline_response_200_controls:
+      type: object
+      properties:
+        mumeta:create-new-user:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetacreatenewuser'
+        mumeta:delete-user:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetadeleteuser'
+    inline_response_200_data:
+      type: object
+      properties:
+        userId:
+          type: integer
+          example: 1
+        email:
+          type: string
+          example: talha@ibex.co
+        username:
+          type: string
+          example: talha
+        imagePath:
+          type: string
+          example: ""
+        role:
+          type: string
+          example: Admin
+        accountCreatedDate:
+          type: string
+          format: date-time
+    inline_response_400_controls_mumetaedituser_schema:
+      required:
+      - userId
+      type: object
+      properties:
+        userId:
+          type: integer
+          example: 1
+        email:
+          type: string
+          example: talha@ibex.com
+        username:
+          type: string
+          example: MTalha
+        role:
+          type: string
+          example: Admin
+    inline_response_400_controls_mumetaedituser:
+      type: object
+      properties:
+        href:
+          type: string
+          example: http://muhammadtalhapwp-001-site1.jtempurl.com/User
+        method:
+          type: string
+          example: PUT
+        encoding:
+          type: string
+          example: json
+        schema:
+          $ref: '#/components/schemas/inline_response_400_controls_mumetaedituser_schema'
+    inline_response_400_controls:
+      type: object
+      properties:
+        mumeta:create-new-user:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetacreatenewuser'
+        mumeta:delete-user:
+          $ref: '#/components/schemas/inline_response_200_controls_mumetadeleteuser'
+        mumeta:edit-user:
+          $ref: '#/components/schemas/inline_response_400_controls_mumetaedituser'
+  requestBodies:
+    UserArray:
+      description: List of user object
+      content:
+        application/json:
+          schema:
+            type: array
+            items:
+              $ref: '#/components/schemas/User'
+  securitySchemes:
+    jwt:
+      type: http
+      scheme: bearer

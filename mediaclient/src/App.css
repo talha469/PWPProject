@@ -1,0 +1,96 @@
+html{
+  scroll-snap-type: y mandatory;
+  height: 92vh;
+  background-color: rgba(0, 0, 0, 0.0);
+  
+}
+
+.App{
+  height: 100%;
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+
+.app__videos{
+  position: relative;
+  height: 92vh;
+  overflow: scroll;
+  border-radius: 0px;
+  width: 100%;
+  max-width: '30%';
+  scroll-snap-type:y  mandatory;
+  background: rgba(0, 0, 0, 0.8);
+  place-items: center;
+}
+
+.app__fullscreen {
+  /* Position the SendForm component */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+
+  /* Add additional styles to make it occupy the full available screen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.6) /* Semi-transparent background */
+}
+
+
+
+/* ============== Hide scrollbar from Chrome ================== */
+ .app__videos::-webkit-scrollbar{
+  display: none;
+} 
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #D3D3D3;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CD5D3D;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1976D2;
+  border-radius: 4px;
+}
+
+.app__videos{
+  -ms-overflow-style: none; /*IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+@font-face {
+  font-family: 'Trajan-Pro';
+  src: url('../src//components/Fonts/Trajan\ Pro\ Regular.ttf') format('truetype'); /* Update the path accordingly */
+  font-weight: normal;
+  font-style: normal;
+}
+.Trajan-Pro{
+  font-family: Trajan-Pro;
+  font-size: 30px;
+  color: #CD5D3D;
+}
+
+@font-face {
+  font-family: 'Trajan-Pro-Bold';
+  src: url('../src/components/Fonts/Trajan\ Pro\ Bold.ttf') format('truetype'); /* Update the path accordingly */
+  font-weight: normal;
+  font-style: normal;
+}
+.Trajan-Pro-Bold{
+  font-family: Trajan-Pro-Bold;
+  font-size: 30px;
+  color: #CD5D3D;
+}

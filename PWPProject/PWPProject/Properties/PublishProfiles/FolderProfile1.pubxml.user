@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Deployements\DevelopmentAPI</_PublishTargetUrl>
+    <History>True|2024-06-22T15:03:09.8274204Z;True|2024-06-22T08:01:52.9649819-07:00;True|2024-05-16T22:32:22.5127902-07:00;True|2024-05-16T22:16:27.0522385-07:00;True|2024-05-16T21:54:22.3248816-07:00;True|2024-05-16T21:49:40.4820154-07:00;True|2024-05-16T21:13:26.5993142-07:00;True|2024-05-16T17:38:15.0630771-07:00;True|2024-05-16T17:30:40.7309460-07:00;True|2024-05-16T17:28:32.0950218-07:00;True|2024-05-16T17:25:54.6122818-07:00;True|2024-05-16T16:01:20.9585016-07:00;True|2024-05-16T16:00:14.4806579-07:00;True|2024-05-16T14:54:40.2432144-07:00;True|2024-05-15T15:23:50.1094639-07:00;True|2024-05-15T03:41:32.7973352-07:00;True|2024-05-15T02:54:17.0011132-07:00;True|2024-05-15T02:44:20.7634692-07:00;False|2024-05-15T02:43:27.1705346-07:00;False|2024-05-15T02:42:09.2230411-07:00;True|2024-05-15T02:33:54.8904399-07:00;True|2024-05-15T02:09:33.4545471-07:00;True|2024-05-15T02:08:20.7664529-07:00;True|2024-05-15T01:58:52.8376762-07:00;False|2024-05-15T01:58:24.1355795-07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="remotedbConnection">
+      <Value>Server=SERVERDELDIOSMO%3bDatabase=PWPProject%3bIntegrated Security=True%3bTrustServerCertificate=True%3bEncrypt=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

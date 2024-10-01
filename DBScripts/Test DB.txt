@@ -1,0 +1,17 @@
+{!isBigScreen && (
+                            <Box
+                              sx={{
+                                position: 'absolute',
+                                top: 5,
+                                right: 2,
+                                color: 'white',
+                                fontSize: 20,
+                                zIndex: 1,
+                              }}
+                            >
+                              <MovieIcon fontSize="inherit" />
+                            </Box>
+                          )}
+
+import MovieIcon from '@mui/icons-material/Movie';
+

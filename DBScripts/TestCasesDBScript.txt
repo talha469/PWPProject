@@ -1,0 +1,80 @@
+
+CREATE DATABASE PWPProjectTest;
+
+
+-- Create User Table
+CREATE TABLE [User] (
+    UserId INT PRIMARY KEY,
+    Email NVARCHAR(MAX),
+    Username NVARCHAR(MAX),
+    PasswordHash NVARCHAR(MAX),
+    ImagePath NVARCHAR(MAX),
+    Role NVARCHAR(MAX),
+    AccountCreatedDate DATETIME
+);
+
+
+-- Create Video Table
+CREATE TABLE Video (
+    Id NVARCHAR(40) PRIMARY KEY,
+    VideoId NVARCHAR(MAX) NOT NULL,
+    UserId INT NOT NULL,
+    Tags NVARCHAR(MAX),
+    Description NVARCHAR(MAX),
+    Url NVARCHAR(MAX) NOT NULL,
+    VideoExtension NVARCHAR(MAX),
+    IsEncoded BIT DEFAULT 0,
+    AvailableResolutions NVARCHAR(MAX),
+    IsDismiss BIT DEFAULT 0,
+    IsApproved BIT DEFAULT 0,
+    IsSellingVideo BIT DEFAULT 0,
+    VideoUploadedDate DATETIME,
+    CONSTRAINT FK_Video_User FOREIGN KEY (UserId) REFERENCES [User](UserId)
+);
+
+-- Create BookMark Table
+CREATE TABLE BookMark (
+    BookMarkId INT PRIMARY KEY,
+    Id NVARCHAR(40) NOT NULL,
+    UserId INT NOT NULL,
+    isBookMarked BIT,
+    bookMarkDate DATETIME,
+    CONSTRAINT FK_BookMark_Video FOREIGN KEY (Id) REFERENCES Video(Id)
+);
+
+-- Create Vote Table
+CREATE TABLE Vote (
+    VoteId INT PRIMARY KEY,
+    Id NVARCHAR(40) NOT NULL,
+    UserId INT NOT NULL,
+    VoteType INT,
+    VoteDate DATETIME,
+    CONSTRAINT FK_Vote_Video FOREIGN KEY (Id) REFERENCES Video(Id)
+);
+
+-- Insert sample data into User table
+INSERT INTO [User] (UserId, Email, Username, PasswordHash, ImagePath, Role, AccountCreatedDate) 
+VALUES (1, 'user1@example.com', 'user1', 'password1', NULL, 'user', GETDATE());
+
+-- Insert sample data into Video table
+INSERT INTO Video (Id, VideoId, UserId, Tags, Description, Url, VideoExtension, IsEncoded, AvailableResolutions, IsDismiss, IsApproved, IsSellingVideo, VideoUploadedDate) 
+VALUES ('1', 'video1', 1, 'tag1, tag2', 'Description of video 1', 'https://example.com/video1.mp4', 'mp4', 0, '1080p, 720p', 0, 1, 0, GETDATE());
+
+-- Insert sample data into BookMark table
+INSERT INTO BookMark (BookMarkId, Id, UserId, isBookMarked, bookMarkDate) 
+VALUES (1, '1', 1, 1, GETDATE());
+
+-- Insert sample data into Vote table
+INSERT INTO Vote (VoteId, Id, UserId, VoteType, VoteDate) 
+VALUES (1, '1', 1, 1, GETDATE());
+
+--delete all data before next test
+
+DELETE FROM BookMark;
+DELETE FROM Vote;
+DELETE FROM Video;
+DELETE FROM [User];
+
+
+
+

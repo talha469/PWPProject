@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PWPProject/.vs/PWPProject/FileContentIndex
+/PWPProject/.sonarqube
+*.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/04408062-81df-47b1-95cd-10578cdae92a.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/5ec8c1eb-fb62-47e4-aba7-0d0c71705a01.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/6fa67f45-6982-4163-ba67-07063a56a5db.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/8ef94016-b7d4-4e96-9e27-dc1c7c249db6.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/b4c61973-fca0-4498-a3e6-e9292d02582f.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/b8c967ff-0dff-4e4f-a150-1f2bb014aeb9.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/e0975cc0-f9b1-4480-a828-f0e66c7b4b44.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/eb4084d1-0507-4a1f-aec0-a11472545866.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/merges/b1e73e35-910e-4b8e-8074-b9331a034786.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/018d0617-5f79-4e70-bd46-f4e7dad69264.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/5beef4bb-5672-494f-840c-7fa45376bdf4.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/64ce9bc3-b699-4fa1-b07d-e9454211a747.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/7384bd9f-fcb3-457b-91ff-231fc4e02160.vsidx
+/.vs/pwp-project-video-streaming/FileContentIndex/74a2ed2a-470d-4a37-8b78-2a3b9e2aa5f0.vsidx

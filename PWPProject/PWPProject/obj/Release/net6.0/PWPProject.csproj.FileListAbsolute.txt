@@ -1,0 +1,349 @@
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\appsettings.Development.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\appsettings.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.exe
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.deps.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.runtimeconfig.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.xml
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Azure.Core.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Azure.Identity.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DocumentFormat.OpenXml.Framework.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\EntityFramework.SqlServer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\EntityFramework.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\FromHeaderAttribute.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Humanizer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\IdentityModel.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\IdentityServer4.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\IdentityServer4.Storage.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Net.Http.Formatting.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Web.Http.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Web.Http.WebHost.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Scrutor.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swagger.Net.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.Core.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.Examples.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.CodeDom.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Drawing.Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.IO.Packaging.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Memory.Data.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Security.Permissions.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\BLLayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Common.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DALayer.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\BLLayer.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Common.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DALayer.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.AssemblyReference.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.AssemblyInfoInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.AssemblyInfo.cs
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.MvcApplicationPartsAssemblyInfo.cs
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.MvcApplicationPartsAssemblyInfo.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.sourcelink.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.build.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.development.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.PWPProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.build.PWPProject.props
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.PWPProject.props
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.PWPProject.props
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.pack.json
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\scopedcss\bundle\PWPProject.styles.css
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.Up2Date
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\refint\PWPProject.dll
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.pdb
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.genruntimeconfig.cache
+D:\University of Oulu\Programable Web Project\Project\PWPGitLabCode\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\ref\PWPProject.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.exe
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.deps.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.xml
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\EntityFramework.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\FromHeaderAttribute.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\IdentityModel.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\IdentityServer4.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\IdentityServer4.Storage.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Scrutor.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swagger.Net.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.Core.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.Examples.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.IO.Packaging.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\BLLayer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Common.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\DALayer.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\BLLayer.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\Common.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\bin\Release\net6.0\DALayer.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.PWPProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.build.PWPProject.props
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.PWPProject.props
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.PWPProject.props
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\scopedcss\bundle\PWPProject.styles.css
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\refint\PWPProject.dll
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.xml
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.pdb
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PWPProject\PWPProject\PWPProject\obj\Release\net6.0\ref\PWPProject.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\appsettings.Development.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\appsettings.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.exe
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.deps.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.runtimeconfig.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\PWPProject.xml
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Azure.Core.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Azure.Identity.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DocumentFormat.OpenXml.Framework.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\EntityFramework.SqlServer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\EntityFramework.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\FromHeaderAttribute.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Humanizer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\IdentityModel.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\IdentityServer4.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\IdentityServer4.Storage.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Net.Http.Formatting.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Web.Http.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Web.Http.WebHost.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Scrutor.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swagger.Net.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.Core.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Swashbuckle.Examples.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.CodeDom.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Drawing.Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.IO.Packaging.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Memory.Data.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Security.Permissions.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\BLLayer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Common.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DALayer.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\BLLayer.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\Common.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\bin\Release\net6.0\DALayer.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.AssemblyReference.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.AssemblyInfoInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.AssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.MvcApplicationPartsAssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.MvcApplicationPartsAssemblyInfo.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.sourcelink.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.build.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.development.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.PWPProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.build.PWPProject.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.PWPProject.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.PWPProject.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\staticwebassets.pack.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\scopedcss\bundle\PWPProject.styles.css
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.csproj.Up2Date
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\refint\PWPProject.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.xml
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\PWPProject.genruntimeconfig.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\PWPProject\PWPProject\obj\Release\net6.0\ref\PWPProject.dll

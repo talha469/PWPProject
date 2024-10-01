@@ -1,0 +1,580 @@
+:root{
+  --body_background: white;
+  --body_color:white;
+  --body_background_navbar:white;
+  --link_color:navy;
+  --icon_color:grey;
+  --channelName_color:grey;
+  --searchbar_color: white;
+  --searchIcon:red;
+  --searchInputText:black;
+  --messagecautionText:grey;
+  --upperNavbar:white;
+  --boxbackground:'#f0f0f0';
+  --body_background_description : rgb(242, 242, 242);
+  --footer : rgb(242, 242, 242);
+  --glass_effect: 0;
+}
+
+[data-theme= "dark"]{
+  --body_background: rgba(26, 26, 26, 1);
+  --body_background_navbar: rgba(0, 0, 0, 0.6);
+  --body_color:rgba(0, 0, 0, 0.6);
+  --link_color:cyan;
+  --icon_color:#CD5D3D;
+  --channelName_color:rgba(228, 227, 227, 0.554);
+  --searchbar_color: white;
+  --searchIcon:#CD5D3D;
+  --searchInputText:#CD5D3D;
+  --messagecautionText:white;
+  --upperNavbar:black;
+  --boxbackground:black;
+  --footer : black;
+  --body_background_description : rgb(39, 39, 39);
+  --glass_effect: 0 0 10px rgba(205, 93, 61, 0.8); 
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Trajan-Pro'
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--body_background);
+  background-color: var(--body_background);
+}
+
+.category-btn{
+  font-weight: bold !important;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  cursor:pointer;
+  background: transparent;
+  outline: none;
+  border: none;
+
+  padding: 7px 15px;
+  margin: 2px 0px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.videoplayer_effect{
+  box-shadow: (var(--glass_effect));
+}
+
+.navbar_theme{
+  background: var(--body_background_navbar);
+}
+
+.upperNavbar{
+  background: var(--upperNavbar);
+}
+.Feed_Theme{
+  background: var(--body_background);
+}
+
+.bottomnavbar_Theme{
+  background: var(--body_background);
+ 
+}
+
+.MainVideoBigScreenDescription{
+  background : var(--body_background_description);
+ 
+}
+
+.footer{
+  background : var(--footer);
+ 
+}
+
+
+
+.IconTheme{
+  color: var(--icon_color);
+}
+
+.searchicon_theme{
+  color: var(--searchIcon) !important;
+}
+
+.UserUpload_Theme{
+  background: var(--body_background);
+  color: var(--body_color);
+}
+
+.textfield_theme{
+  background-color: transparent;
+  border-radius: 15px;
+}
+
+.textfield_theme .Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #1976D2;
+}
+
+.search-bar label {
+  color: #FF0000;
+}
+
+.suggestionstext_theme{
+  color: var(--icon_color);
+}
+
+
+/* customStyles.css */
+.MuiBox-root.css-cxmp86 {
+  background-color: var(--body_background);
+  /* Add any other styles you want */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.search-bar{
+  border:none;
+  background: linear-gradient(to right, var(--light-color), var(--dark-color));
+  outline:none;
+  width:350px;
+  color: var(--searchInputText);
+  font-weight: bold;
+}
+
+.searchtextfields{
+  border:none;
+  background: var(--body_background);
+  outline:none;
+  width:300px;
+  color: var(--searchInputText);
+  font-weight: bold;
+}
+
+.searchtextfieldsDesc{
+  border:none;
+  background: var(--body_background);
+  outline:none;
+  width:22vw;
+  height: 8vh;
+  color: var(--searchInputText);
+  font-weight: bold;
+}
+
+.searchtextfieldspassword{
+  border:none;
+  background: var(--body_background);
+  outline:none;
+  width:16vw;
+  color: var(--searchInputText);
+  font-weight: bold;
+}
+
+.searchtextfieldsTagsYear{
+  border:none;
+  background: var(--body_background);
+  outline:none;
+  width:4vw;
+  color: var(--searchInputText);
+  font-weight: bold;
+}
+
+.searchtextfieldsTags{
+  border:none;
+  background: var(--body_background);
+  outline:none;
+  width:6vw;
+  color: var(--searchInputText);
+  font-weight: bold;
+}
+
+
+
+
+.searchInputText{
+  color: var(--searchInputText);
+}
+
+.textversion1{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.textversionBrowseMore{
+  font-family: Trajan-Pro;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.textversion2{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 14px;
+  font-weight:lighter;
+  margin-bottom: 5px;
+}
+
+.textversionPasswordReset{
+  color: var(--searchInputText);
+  font-size: 14px;
+  font-weight:lighter;
+  margin-bottom: 5px;
+}
+
+.textversion3{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 16px;
+  font-weight:normal;
+}
+
+.textversionmessages{
+  color: var(--messagecautionText);
+  font-family: Trajan-Pro;
+  font-size: 14px;
+  font-weight:normal;
+}
+
+.textversionmessages2{
+  color: var(--messagecautionText);
+  font-family: Trajan-Pro;
+  font-size: 12px;
+  font-weight:normal;
+}
+
+
+
+.textversion4{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 10px;
+  font-weight:normal;
+}
+
+.textversion8{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 12px;
+  font-weight:normal;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+
+.textversion5{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 14px;
+  font-weight:bold;
+}
+
+.textversionVideoUploadTagetc{
+  color: var(--searchInputText);
+  font-family: Proxima-Nova-Regular;
+  font-size: 16px;
+  font-weight:bold;
+}
+
+
+.videoTagsandDescShorts{
+  color: var(--searchInputText);
+  font-weight:normal;
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  overflow: hidden;
+  max-width: 10vw;
+  padding-left: 1vw;
+  padding-right: 10px;
+  padding-top: 3px;
+  text-decoration: none;
+  margin-top: 1px;
+}
+
+.videoTagsandDescLandscape{
+  color: var(--searchInputText);
+  font-weight:normal;
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  overflow: hidden;
+  max-width: 15vw;
+  padding-left: 1vw;
+  padding-right: 10px;
+  padding-top: 3px;
+  text-decoration: none;
+  margin-top: 1px;
+}
+
+.channelNameWIthTags{
+  color: var(--channelName_color);
+  font-weight:normal;
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  overflow: hidden;
+  padding-left: 1vw;
+  padding-right: 10px;
+  padding-top: 3px;
+  text-decoration: none;
+  margin-top: 1px;
+}
+
+
+.textversion6{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 12px;
+  font-weight:normal;
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  overflow: hidden;
+  max-width: 70ch;
+  padding-left: 1vw;
+  padding-right: 10px;
+  padding-top: 3px;
+  text-decoration: none;
+  margin-top: 1px;
+}
+
+.textversion7{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 16px;
+  font-weight:bold;
+  padding-left: 20px;
+}
+
+.textversion9{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.textversionVideoUpload{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.textversionPleaseWait{
+  color: var(--searchInputText);
+  font-family: Trajan-Pro;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.textversion10{
+  font-family: Trajan-Pro;
+  font-size: 36px;
+  color: white;
+  z-index: 1;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.textversion12{
+  font-family: Trajan-Pro-Bold;
+  font-size: 12px;
+  color: white;
+  z-index: 1;
+  margin-bottom: 1px;
+}
+
+.textversionShortChannelName{
+  font-family: Trajan-Pro;
+  font-size: 12px;
+  color: white;
+  z-index: 1;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+.textversionBlackAndWhite{
+  font-family: Trajan-Pro;
+}
+
+.searchbar_theme{
+  background-color: var(--searchbar_color)!important;
+}
+
+@media screen and (max-width: 1024px) {
+  /* Apply border radius for medium and large devices */
+  .videoplayer_effect {
+    border-radius: 10px;
+  }
+
+  .searchInputText {
+    font-size: 14px;
+  }
+
+  .videoTagsandDescLandscape{
+    color: var(--searchInputText);
+    font-weight:normal;
+    text-overflow: ellipsis;
+    white-space:wrap;
+    overflow: hidden;
+    max-width: 40vw;
+    padding-left: 1vw;
+    padding-right: 10px;
+    padding-top: 3px;
+    text-decoration: none;
+    margin-top: 1px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .scroll-horizontal {
+    overflow: auto !important;
+  }
+
+  .textversionBrowseMore{
+    font-family: Trajan-Pro;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .videoTagsandDescLandscape{
+    color: var(--searchInputText);
+    font-weight:normal;
+    text-overflow: ellipsis;
+    white-space:nowrap;
+    overflow: hidden;
+    max-width: 80vw;
+    padding-left: 1vw;
+    padding-right: 10px;
+    padding-top: 3px;
+    text-decoration: none;
+    margin-top: 1px;
+  }
+
+  
+  .searchtextfieldsTags{
+    border:none;
+    background: var(--body_background);
+    outline:none;
+    width:14vw;
+    color: var(--searchInputText);
+    font-weight: bold;
+  }
+
+  .searchtextfieldsTagsYear{
+    border:none;
+    background: var(--body_background);
+    outline:none;
+    width:7vw;
+    color: var(--searchInputText);
+    font-weight: bold;
+  }
+
+  .searchtextfieldsDesc{
+    border:none;
+    background: var(--body_background);
+    outline:none;
+    width:75vw;
+    color: var(--searchInputText);
+    font-weight: bold;
+  }
+
+  .searchInputText {
+    font-size: 14px;
+  }
+
+  .react-player {
+    height: 45vh !important;
+  }
+  .search-bar{
+    width:160px;
+  }
+
+  .searchtextfields{
+    width:70vw;
+  }
+
+  .textversion7{
+    color: var(--searchInputText);
+    font-family: Trajan-Pro;
+    font-size: 10px;
+    font-weight:bold;
+    padding-left: 10px;
+  }
+
+  .textversion5{
+    color: var(--searchInputText);
+    font-family: Trajan-Pro;
+    font-size: 10px;
+    font-weight:bold;
+  }
+
+  .textversionVideoUploadTagetc{
+    color: var(--searchInputText);
+    font-family: Proxima-Nova-Regular;
+    font-size: 12px;
+    font-weight:bold;
+  }
+  
+  .textversion8{
+    color: var(--searchInputText);
+    font-family: Trajan-Pro;
+    font-size: 10px;
+    font-weight:normal;
+  }
+
+  .textversionVideoUpload{
+    color: var(--searchInputText);
+    font-family: Trajan-Pro;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .textColorAccordingtoTheme{
+    color: var(--searchInputText);
+  }
+  
+  .textversionPleaseWait{
+    color: var(--searchInputText);
+    font-family: Trajan-Pro;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  
+}
+
+.MuiTabs-indicator {
+  background-color: darkgrey; /* Change this to the desired dark grey color */
+}
+
+.MuiBox-root.css-19kzrtu{
+  padding: 0px;
+}
+
+ .play-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80px; /* Adjust the size of the play button as needed */
+            height: 80px; /* Adjust the size of the play button as needed */
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 50%;
+            color: white;
+            text-align: center;
+            line-height: 80px;
+            cursor: pointer;
+        }
+
+

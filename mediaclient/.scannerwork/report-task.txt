@@ -1,0 +1,6 @@
+projectKey=PWPClientSide
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=PWPClientSide
+ceTaskId=1c8132e7-0a3b-4732-bd2a-c73f0cac114f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=1c8132e7-0a3b-4732-bd2a-c73f0cac114f

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\talha\Desktop\PWPDeployement</_PublishTargetUrl>
+    <History>True|2024-08-13T14:46:26.4490458Z||;True|2024-08-13T16:06:17.2422379+03:00||;True|2024-05-15T11:45:48.0062418+03:00||;True|2024-05-15T11:41:07.8058864+03:00||;True|2024-05-15T09:30:37.6381604+03:00||;True|2024-05-15T09:13:11.2020204+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="remotedbConnection">
+      <Value>Server=MTALHAARSHAD%3bDatabase=PWPProject%3bIntegrated Security=True%3bTrustServerCertificate=True%3bEncrypt=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

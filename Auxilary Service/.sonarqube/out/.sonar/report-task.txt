@@ -1,0 +1,6 @@
+projectKey=PWPAuxiliaryService
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=PWPAuxiliaryService
+ceTaskId=e8a13cc4-c531-4f94-81d8-829cd45d19be
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e8a13cc4-c531-4f94-81d8-829cd45d19be

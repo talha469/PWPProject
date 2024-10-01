@@ -1,0 +1,6 @@
+@Auxilary_Service_HostAddress = http://localhost:5253
+
+GET {{Auxilary_Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

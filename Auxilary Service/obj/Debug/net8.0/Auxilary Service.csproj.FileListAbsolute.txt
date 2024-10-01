@@ -1,0 +1,33 @@
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.csproj.AssemblyReference.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.AssemblyInfoInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.AssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.csproj.CoreCompileInputs.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.MvcApplicationPartsAssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.MvcApplicationPartsAssemblyInfo.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.sourcelink.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\appsettings.Development.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\appsettings.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Auxilary Service.exe
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Auxilary Service.deps.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Auxilary Service.runtimeconfig.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Auxilary Service.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Auxilary Service.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets\msbuild.Auxilary Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets\msbuild.build.Auxilary Service.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Auxilary Service.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Auxilary Service.props
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\scopedcss\bundle\Auxilary Service.styles.css
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary.28EB9119.Up2Date
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\refint\Auxilary Service.dll
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.pdb
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.genruntimeconfig.cache
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\ref\Auxilary Service.dll

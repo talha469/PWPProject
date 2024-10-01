@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="muhammadtalhapwp-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\University\ of\ Oulu\\Programable\ Web\ Project\\Project\\PWPGitLabCode\\pwp-project-video-streaming\\PWPProject\\PWPProject\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

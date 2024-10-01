@@ -1,0 +1,11 @@
+﻿D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\Controllers\AuxilaryServiceController.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\Program.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\WeatherForecast.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.GlobalUsings.g.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.AssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\obj\Debug\net8.0\Auxilary Service.MvcApplicationPartsAssemblyInfo.cs
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\appsettings.Development.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\appsettings.json
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\Auxilary Service.http
+D:\University of Oulu\Courses\Programable Web Project\Project\pwp-project-video-streaming\Auxilary Service\Properties\launchSettings.json
